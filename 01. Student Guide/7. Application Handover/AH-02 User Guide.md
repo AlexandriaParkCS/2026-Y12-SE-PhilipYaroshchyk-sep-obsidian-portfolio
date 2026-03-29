@@ -1,0 +1,1 @@
+Document a quick user guide for the application.

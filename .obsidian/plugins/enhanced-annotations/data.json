@@ -1,0 +1,93 @@
+{
+  "editorSuggest": {
+    "enableAutoSuggest": true,
+    "triggerPhrase": "//",
+    "commentFormat": "html"
+  },
+  "decoration": {
+    "autoRegisterLabels": true,
+    "styles": {
+      "labels": {
+        "1764056359926": {
+          "label": "",
+          "id": "1764056359926",
+          "enableStyle": true,
+          "style": {
+            "color": "#f6bc4a",
+            "italic": true,
+            "fontWeight": "thin"
+          }
+        },
+        "1764057555244": {
+          "label": "",
+          "id": "1764057555244",
+          "enableStyle": true,
+          "style": {
+            "color": "#66e212",
+            "italic": true,
+            "fontWeight": "thin",
+            "scope": "highlights"
+          }
+        },
+        "1764057624791": {
+          "label": "",
+          "id": "1764057624791",
+          "enableStyle": true,
+          "style": {
+            "color": "#9b5cf0",
+            "italic": true,
+            "fontWeight": "thin",
+            "scope": "comments"
+          }
+        }
+      },
+      "tag": {
+        "style": {
+          "fontSize": 10,
+          "opacity": 40
+        },
+        "enableStyle": true
+      }
+    },
+    "defaultPalette": "bright"
+  },
+  "outline": {
+    "fontSize": 12,
+    "showLabelsFilter": false,
+    "showSearchInput": false,
+    "hiddenLabels": [],
+    "hiddenTypes": []
+  },
+  "tts": {
+    "rate": 1.1,
+    "pitch": 1,
+    "volume": 1,
+    "focusAnnotationInEditor": true,
+    "voice": "Microsoft David - English (United States)"
+  },
+  "notes": {
+    "defaultFolder": "notes",
+    "notesNamingMode": "annotation-label/annotation-text",
+    "openNoteAfterCreation": true,
+    "insertLinkToNote": true,
+    "defaultFolderMode": "current folder/notes/<file-name>",
+    "template": "{{block_link}}",
+    "truncateFileName": false
+  },
+  "idling": {
+    "daysUnused": [
+      "2025-11-25",
+      "2025-11-26",
+      "2025-11-28",
+      "2025-11-29"
+    ]
+  },
+  "clipboard": {
+    "templates": {
+      "front": "",
+      "header": "# {{note_name}}",
+      "highlight": "- {{highlight_text}}",
+      "comment": "- _{{comment_text}}_"
+    }
+  }
+}

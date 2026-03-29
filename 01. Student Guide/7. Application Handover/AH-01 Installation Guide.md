@@ -1,0 +1,1 @@
+Document a quick installation guide for the application. 

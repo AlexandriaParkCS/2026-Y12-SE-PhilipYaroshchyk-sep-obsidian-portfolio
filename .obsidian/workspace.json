@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "aec567b186aca0e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9f9bf80d0670d18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34525ae61f5842f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Read Me First.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Read Me First"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "02972e327b1d8c86",
+    "type": "split",
+    "children": [
+      {
+        "id": "31b74da36d6a1f6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a69ea5e28302557",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6f2a893e0ebb0156",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "76d0ef5c2acf0f15",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 339.5
+  },
+  "right": {
+    "id": "4252a763d1280327",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d3f5e6e35c69d08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9547a0ddfaa79a3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01. Student Guide/3. Application Design/AD-07 Class Diagrams.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for AD-07 Class Diagrams"
+            }
+          },
+          {
+            "id": "4bcbddc73d915340",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "1d46800c4aed2752",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4cdc6c57e5a35b7b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "d9ddc2423cc30964",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
+            }
+          },
+          {
+            "id": "a97b9409a0ff7701",
+            "type": "leaf",
+            "state": {
+              "type": "annotations-outline",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "annotations-outline"
+            }
+          },
+          {
+            "id": "f6fcf555bd859dbd",
+            "type": "leaf",
+            "state": {
+              "type": "annotations-outline",
+              "state": {},
+              "icon": "message-square",
+              "title": "Enhanced Annotations"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 285.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "34525ae61f5842f7",
+  "lastOpenFiles": [
+    "02. My Portfolio/7. Application Handover/AH-02 User Guide.md",
+    "02. My Portfolio/7. Application Handover/AH-01 Installation Guide.md",
+    "02. My Portfolio/3. Project Proposal/PP-01 Executive Summary.md",
+    "02. My Portfolio/7. Application Handover",
+    "02. My Portfolio/2. Project Vision/PV-05 Stakeholder Profiles.md",
+    "02. My Portfolio/2. Project Vision/PV-06 Product Features.md",
+    "02. My Portfolio/2. Project Vision/PV-04 Alternatives and Competition.md",
+    "02. My Portfolio/2. Project Vision/Untitled",
+    "02. My Portfolio/2. Project Vision/PV-01 Executive Summary.md",
+    "02. My Portfolio/2. Project Vision/PV-02 Problem Statement.md",
+    "02. My Portfolio/2. Project Vision/PV-03 Product Statement.md",
+    "01. Student Guide/1. Project Journal/About Project Journal.md",
+    "02. My Portfolio/2. Project Vision",
+    "01. Student Guide/0. General/Study Resources.md",
+    "01. Student Guide/7. Application Handover/AH-02 User Guide.md",
+    "01. Student Guide/7. Application Handover/AH-01 Installation Guide.md",
+    "01. Student Guide/6. Application Testing/About Application Testing.md",
+    "01. Student Guide/5. Application Implementation/About Application Implementation.md",
+    "01. Student Guide/5. Application Implementation/CR-20251126 - Good Code Review Report.md",
+    "01. Student Guide/5. Application Implementation/CR-20251126 - Bad Code Review Report.md",
+    "01. Student Guide/5. Application Implementation/AI-01 Code Repository.md",
+    "01. Student Guide/4. Application Design/About Application Design.md",
+    "01. Student Guide/4. Application Design/AD-01 Story Boards.md",
+    "01. Student Guide/3. Project Proposal/PP-08 Budget.md",
+    "01. Student Guide/7. Application Handover",
+    "01. Student Guide/3. Project Proposal/PP-07 Resources.md",
+    "01. Student Guide/3. Project Proposal/PP-05 Methodology.md",
+    "01. Student Guide/3. Project Proposal/PP-06 Timeline.md",
+    "01. Student Guide/3. Project Proposal/PP-04 Deliverables.md",
+    "01. Student Guide/3. Project Proposal/PP-03 Proposed Solution.md",
+    "01. Student Guide/2. Project Vision",
+    "01. Student Guide/5. Application Implementation/PWA Architecture.png",
+    "01. Student Guide/4. Application Design/Transaction Management UML Class Diagram.png",
+    "01. Student Guide/4. Application Design/BudgetWise ERD.png",
+    "01. Student Guide/4. Application Design/BudgetWise DFD Level 1.png",
+    "01. Student Guide/4. Application Design/BudgetWise DFD Level 0.png",
+    "01. Student Guide/4. Application Design/Categorise Transactions Flow Chart.png",
+    "Pasted image 20251125115436.png",
+    "01. Student Guide/6. Application Testing",
+    "01. Student Guide/5. Application Implementation",
+    "01. Student Guide/3. Application Design/Sign Up Story Board.drawio.png",
+    "01. Student Guide/4. Application Design/Sign Up Story Board.png",
+    "01. Student Guide/4. Application Design/Generate Dashboard Structure Chart.png",
+    "01. Student Guide/4. Application Design",
+    "02. My Portfolio/5. Application Implementation",
+    "01. Student Guide/3. Producing and Implementing"
+  ]
+}
