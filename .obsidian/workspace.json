@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Read Me First.md",
+                "file": "02. My Portfolio/2. Project Vision/PV-01 Executive Summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Read Me First"
+              "title": "PV-01 Executive Summary"
             }
           }
         ]
@@ -175,12 +175,22 @@
             "state": {
               "type": "annotations-outline",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "annotations-outline"
+            }
+          },
+          {
+            "id": "d041087e0ffa2450",
+            "type": "leaf",
+            "state": {
+              "type": "annotations-outline",
+              "state": {},
               "icon": "message-square",
               "title": "Enhanced Annotations"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -201,17 +211,25 @@
   },
   "active": "34525ae61f5842f7",
   "lastOpenFiles": [
+    "02. My Portfolio/2. Project Vision/PV-04 Alternatives and Competition.md",
+    "02. My Portfolio/2. Project Vision/PV-01 Executive Summary.md",
+    "02. My Portfolio/2. Project Vision/PV-05 Stakeholder Profiles.md",
+    "02. My Portfolio/2. Project Vision/PV-06 Product Features.md",
+    "01. Student Guide/2. Project Vision/PV-05 Stakeholder Profiles.md",
+    "02. My Portfolio/2. Project Vision/PV-02 Problem Statement.md",
+    "02. My Portfolio/2. Project Vision/PV-03 Product Statement.md",
+    "02. My Portfolio/1. Project Journal/PJ-20251029 - Journal Entry Template.md",
+    "01. Student Guide/2. Project Vision/PV-03 Product Statement.md",
+    "01. Student Guide/2. Project Vision/PV-02 Problem Statement.md",
+    "01. Student Guide/2. Project Vision/PV-06 Product Features.md",
+    "01. Student Guide/2. Project Vision/PV-04 Alternatives and Competition.md",
+    "01. Student Guide/2. Project Vision/PV-01 Executive Summary.md",
+    "Read Me First.md",
     "02. My Portfolio/7. Application Handover/AH-02 User Guide.md",
     "02. My Portfolio/7. Application Handover/AH-01 Installation Guide.md",
     "02. My Portfolio/3. Project Proposal/PP-01 Executive Summary.md",
     "02. My Portfolio/7. Application Handover",
-    "02. My Portfolio/2. Project Vision/PV-05 Stakeholder Profiles.md",
-    "02. My Portfolio/2. Project Vision/PV-06 Product Features.md",
-    "02. My Portfolio/2. Project Vision/PV-04 Alternatives and Competition.md",
     "02. My Portfolio/2. Project Vision/Untitled",
-    "02. My Portfolio/2. Project Vision/PV-01 Executive Summary.md",
-    "02. My Portfolio/2. Project Vision/PV-02 Problem Statement.md",
-    "02. My Portfolio/2. Project Vision/PV-03 Product Statement.md",
     "01. Student Guide/1. Project Journal/About Project Journal.md",
     "02. My Portfolio/2. Project Vision",
     "01. Student Guide/0. General/Study Resources.md",
@@ -222,15 +240,7 @@
     "01. Student Guide/5. Application Implementation/CR-20251126 - Good Code Review Report.md",
     "01. Student Guide/5. Application Implementation/CR-20251126 - Bad Code Review Report.md",
     "01. Student Guide/5. Application Implementation/AI-01 Code Repository.md",
-    "01. Student Guide/4. Application Design/About Application Design.md",
-    "01. Student Guide/4. Application Design/AD-01 Story Boards.md",
-    "01. Student Guide/3. Project Proposal/PP-08 Budget.md",
     "01. Student Guide/7. Application Handover",
-    "01. Student Guide/3. Project Proposal/PP-07 Resources.md",
-    "01. Student Guide/3. Project Proposal/PP-05 Methodology.md",
-    "01. Student Guide/3. Project Proposal/PP-06 Timeline.md",
-    "01. Student Guide/3. Project Proposal/PP-04 Deliverables.md",
-    "01. Student Guide/3. Project Proposal/PP-03 Proposed Solution.md",
     "01. Student Guide/2. Project Vision",
     "01. Student Guide/5. Application Implementation/PWA Architecture.png",
     "01. Student Guide/4. Application Design/Transaction Management UML Class Diagram.png",
