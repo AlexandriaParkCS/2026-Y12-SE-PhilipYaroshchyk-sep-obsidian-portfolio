@@ -11,6 +11,11 @@ As discussed in the previous sections, **YourCatsAndDogs** has two primary end u
 - **Needs**: Safety, decent pay, job security. Good job is recognised and rewarded by having access to more opportunities. 
 - **Success Criteria**: Job is financially rewarding, job is always safe and secure, there are ongoing business engagements with pet owners. 
 
+***Own family = customer***
+- **Description**: Own family as an early adopter group, have a pet cat 
+- **Needs**: Seamless safe and secure service provided by the same pet sitter, so that there is no anxiety when planning the trip.
+- **Success Criteria**: The application fits their needs/requirements allowing them to seamlessly organise a sitter for the cat, ideally the same local sitter for every trip. With safety and security features being top priorities for the service.
+
 ### Secondary Stakeholders
 Given that **YourCatsAndDogs** serves as a platform that enables, provides safety controls and facilitates mutually beneficial business engagement of pet owners and pet sitters, application development and project team take the secondary stakeholder role.
 
