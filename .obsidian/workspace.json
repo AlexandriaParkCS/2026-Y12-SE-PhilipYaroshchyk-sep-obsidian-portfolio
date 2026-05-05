@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Student Guide/2. Project Vision/PV-01 Executive Summary.md",
+                "file": "02. My Portfolio/2. Project Vision/PV-01 Executive Summary.md",
                 "mode": "source",
                 "source": false
               },
@@ -212,6 +212,9 @@
   "active": "34525ae61f5842f7",
   "lastOpenFiles": [
     "YourCatsAndDogs.pdf",
+    "02. My Portfolio/1. Project Journal/Journal Entry - 2026-05-02.md",
+    "02. My Portfolio/1. Project Journal/Journal Entry - 2026-05-03.md",
+    "02. My Portfolio/1. Project Journal/Journal Entry - 2026-05-05.md",
     "02. My Portfolio/2. Project Vision/PV-01 Executive Summary.md",
     "01. Student Guide/2. Project Vision/PV-01 Executive Summary.md",
     "01. Student Guide/2. Project Vision/About Project Vision.md",
@@ -225,9 +228,6 @@
     "02. My Portfolio/2. Project Vision/PV-06 Product Features.md",
     "02. My Portfolio/2. Project Vision/PV-05 Stakeholder Profiles.md",
     "02. My Portfolio/2. Project Vision/PV-04 Alternatives and Competition.md",
-    "02. My Portfolio/1. Project Journal/Journal Entry - 2026-05-03.md",
-    "02. My Portfolio/1. Project Journal/Journal Entry - 2026-06-04 1.md",
-    "02. My Portfolio/1. Project Journal/Journal Entry - 2026-05-02.md",
     "02. My Portfolio/1. Project Journal/Journal Entry - 2026-05-01.md",
     "02. My Portfolio/1. Project Journal/Journal Entry - 2026-05-02 1 1 1.md",
     "02. My Portfolio/1. Project Journal/Journal Entry - 2026-05-02 1 1.md",
@@ -255,7 +255,6 @@
     "01. Student Guide/4. Application Design/Sign Up Story Board.png",
     "01. Student Guide/4. Application Design/Generate Dashboard Structure Chart.png",
     "01. Student Guide/4. Application Design",
-    "02. My Portfolio/5. Application Implementation",
-    "01. Student Guide/3. Producing and Implementing"
+    "02. My Portfolio/5. Application Implementation"
   ]
 }
