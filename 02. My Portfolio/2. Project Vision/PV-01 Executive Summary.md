@@ -5,3 +5,5 @@ Traditional solutions of organising a pet care rely on the use of pet kennels or
 **YourCatsAndDogs** addresses this gap by providing the platform where the needs of all parties are treated with equal importance and respect thus ensuring services continuation and business longevity. 
 
 User access to the system is fully self‑contained and operates within a user’s personal environment, requiring only a web browser and basic internet access. Application design provides simple and intuitive user experience. Personal details verification and robust feedback and problem reporting mechanism ensure safety for both parties. Finally, extensive search and a fair rating system ensure that the platform facilities the matching of pet owners and pet sitters in the most efficient way. All these together foster mutual benefits, respect and ongoing business engagements, which is an ideal outcome for all stakeholders.
+
+
