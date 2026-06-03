@@ -1,1 +1,5 @@
-...
+By the time the project is completed, the below components will be delivered:
+- **Working application:** YourCatsAndDogs web app, deployed online. The application will be fully functional, tested, and accessible to users via a public URL.
+- **Source code:** GitHub repository with the latest codebase. The repository will be well-structured and include all code, configuration files, and dependencies needed to build and run the application.
+- **Documentation:** Technical docs covering design, implementation, and developer setup. These will serve as a reference for anyone maintaining or extending the application in the future.
+- **User guide:** Step-by-step online instructions for end users. The guide will walk users through all key features and workflows, with clear language and visuals where needed.

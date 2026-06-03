@@ -1,1 +1,5 @@
-...
+Many Australians struggle to take of their pet when going on holidays, as in where to put or get whom to take care of them. [An estimated](https://animalmedicinesaustralia.org.au/resources/pets-in-australia-a-national-survey-of-pets-and-people-3/) 73% of households own one or more pets with roughly 7.7 million households own 31.6 million.  [Around 36% ](https://travelweekly.com.au/millions-of-aussies-are-skipping-holidays-to-stay-home-with-their-pets/) of Australian pet owners have turned down a weekend away because they struggle with reliable pet care. 
+Overall, an estimated 4 million Australians skip holidays entirely to stay home with their pets due to these difficulties and wellbeing concern. 
+
+**YourCatsAndDogs** aims solve this the problem by providing a secure, easy to use and trusted application that links together pet owners (no matter how easy or hard their pet is to look after) and qualified pet sitters. Travelling families have no anxiety knowing that their pet is safe and well looked after.  Service providers (pet sitters) are well compensated for their services, treated with respect and get to enjoy the company of a grateful animal. Even more so, pet owners and pet sitters could build a long term bond so that organising consecutive travels becomes even more seamless.  
+
