@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. My Portfolio/1. Project Journal/Journal Entry - 2026-06-03.md",
+                "file": "02. My Portfolio/4. Application Design/AD-06 Data Dictionary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Journal Entry - 2026-06-03"
+              "title": "AD-06 Data Dictionary"
             }
           }
         ]
@@ -211,16 +211,28 @@
   },
   "active": "34525ae61f5842f7",
   "lastOpenFiles": [
+    "02. My Portfolio/4. Application Design/AD-05 Entity Relationship Diagrams.md",
+    "02. My Portfolio/4. Application Design/AD-06 Data Dictionary.md",
+    "02. My Portfolio/4. Application Design/AD-07 Class Diagrams.md",
+    "02. My Portfolio/4. Application Design/AD-03 Structure Chart.md",
+    "02. My Portfolio/4. Application Design/AD-02 Data Flow Diagrams.md",
+    "02. My Portfolio/4. Application Design/AD-01 Story Boards.md",
+    "02. My Portfolio/1. Project Journal/Journal Entry - 2026-06-04.md",
+    "02. My Portfolio/1. Project Journal/Journal Entry - 2026-05-05.md",
     "02. My Portfolio/1. Project Journal/Journal Entry - 2026-06-02.md",
     "02. My Portfolio/1. Project Journal/Journal Entry - 2026-06-03.md",
+    "login.drawio 1.png",
+    "login.drawio.png",
+    "signup_pet_sitter.drawio.png",
+    "signup_pet_owner.drawio.png",
+    "02. My Portfolio/4. Application Design/AD-04 Input Process Output Charts.md",
+    "02. My Portfolio/3. Project Proposal/PP-01 Executive Summary.md",
+    "02. My Portfolio/3. Project Proposal/PP-02 Problem Description.md",
     "02. My Portfolio/2. Project Vision/PV-06 Product Features.md",
     "02. My Portfolio/2. Project Vision/PV-05 Stakeholder Profiles.md",
     "02. My Portfolio/3. Project Proposal/PP-04 Deliverables.md",
     "02. My Portfolio/3. Project Proposal/PP-03 Proposed Solution.md",
-    "02. My Portfolio/3. Project Proposal/PP-02 Problem Description.md",
-    "02. My Portfolio/3. Project Proposal/PP-01 Executive Summary.md",
     "02. My Portfolio/1. Project Journal/Journal Entry - 2026-05-03.md",
-    "02. My Portfolio/1. Project Journal/Journal Entry - 2026-05-05.md",
     "02. My Portfolio/3. Project Proposal/PP-08 Budget.md",
     "02. My Portfolio/2. Project Vision/PV-02 Problem Statement.md",
     "02. My Portfolio/2. Project Vision/PV-01 Executive Summary.md",
@@ -229,14 +241,6 @@
     "02. My Portfolio/3. Project Proposal/PP-05 Methodology.md",
     "02. My Portfolio/2. Project Vision/PV-03 Product Statement.md",
     "02. My Portfolio/1. Project Journal/Journal Entry - 2026-04-27.md",
-    "02. My Portfolio/1. Project Journal/Journal Entry - 2026-05-01.md",
-    "02. My Portfolio/1. Project Journal/Journal Entry - 2026-05-02.md",
-    "02. My Portfolio/4. Application Design/AD-01 Story Boards.md",
-    "01. Student Guide/3. Project Proposal/PP-03 Proposed Solution.md",
-    "01. Student Guide/3. Project Proposal/PP-02 Problem Description.md",
-    "01. Student Guide/3. Project Proposal/PP-05 Methodology.md",
-    "01. Student Guide/3. Project Proposal/PP-04 Deliverables.md",
-    "01. Student Guide/2. Project Vision/PV-03 Product Statement.md",
     "YourCatsAndDogs.pdf",
     "02. My Portfolio/7. Application Handover",
     "02. My Portfolio/2. Project Vision/Untitled",
@@ -249,12 +253,8 @@
     "01. Student Guide/4. Application Design/BudgetWise DFD Level 1.png",
     "01. Student Guide/4. Application Design/BudgetWise DFD Level 0.png",
     "01. Student Guide/4. Application Design/Categorise Transactions Flow Chart.png",
-    "Pasted image 20251125115436.png",
     "01. Student Guide/6. Application Testing",
     "01. Student Guide/5. Application Implementation",
-    "01. Student Guide/3. Application Design/Sign Up Story Board.drawio.png",
-    "01. Student Guide/4. Application Design/Sign Up Story Board.png",
-    "01. Student Guide/4. Application Design/Generate Dashboard Structure Chart.png",
     "01. Student Guide/4. Application Design",
     "02. My Portfolio/5. Application Implementation"
   ]
