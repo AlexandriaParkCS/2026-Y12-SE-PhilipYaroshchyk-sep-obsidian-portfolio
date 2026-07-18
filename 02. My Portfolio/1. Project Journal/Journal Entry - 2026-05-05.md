@@ -16,4 +16,4 @@
 - Practice the presentation
 
 **Reflection:** 
-Working on the presentation made me think of the large scope of work required to complete the project. Time management will be a key consideration for successful task completion. 
+- Working on the presentation made me think of the large scope of work required to complete the project. Time management will be a key consideration for successful task completion. 

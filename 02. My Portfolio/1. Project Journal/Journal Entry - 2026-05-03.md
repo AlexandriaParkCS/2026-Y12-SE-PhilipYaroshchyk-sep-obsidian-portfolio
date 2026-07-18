@@ -15,4 +15,4 @@
 - To work on the Pitch-deck presentation and complete it by Friday.
 
 **Reflection:** 
-Its going to be a challenge to work on the app because it needs to have several advanced features.
+- Its going to be a challenge to work on the app because it needs to have several advanced features.

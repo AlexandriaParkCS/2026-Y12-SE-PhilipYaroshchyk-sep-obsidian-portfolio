@@ -4,11 +4,13 @@
 
 **What I did:**
 -  I finished the full project proposal section
+
 **Why I did it:**
 -  I completed the project proposal section to submit the elaboration checkpoint on time.
 
 **Challenges:**
 - No challenges were faced this session
+
 **Next steps:**
 - The next step is to complete this elaboration checkpoint and progress onto the construction checkpoint.
 

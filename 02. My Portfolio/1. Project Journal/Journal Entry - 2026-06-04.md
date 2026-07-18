@@ -3,12 +3,14 @@
 **Module:** Application Design Section
 
 **What I did:**
--  I worked on the draft of the application design section - focus on Story Boards - Sign up and Login
+- I worked on the draft of the application design section - focus on Story Boards - Sign up and Login
+
 **Why I did it:**
--  Story Boards section is one of the requirements of the Application Design
+- Story Boards section is one of the requirements of the Application Design
 
 **Challenges:**
 - Using Draw.io web app was a challenge as it was very fidgety and made it hard to move and colour components.
+
 **Next steps:**
 - Continue working on the Application Design section
 
