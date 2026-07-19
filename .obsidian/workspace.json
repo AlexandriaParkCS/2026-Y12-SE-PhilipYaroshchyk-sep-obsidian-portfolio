@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. My Portfolio/4. Application Design/AD-01 Story Boards.md",
+                "file": "02. My Portfolio/6. Application Testing/AT-TC-000 - Test Case Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AD-01 Story Boards"
+              "title": "AT-TC-000 - Test Case Template"
             }
           }
         ]
@@ -219,18 +219,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "34525ae61f5842f7",
+  "active": "2a69ea5e28302557",
   "lastOpenFiles": [
+    "02. My Portfolio/4. Application Design/AD-01 Story Boards.md",
+    "messaging.drawio.png",
+    "my-sittings.drawio.png",
+    "confirm-booking.drawio.png",
+    "find-pets-to-sit.drawio.png",
+    "request-booking.drawio.png",
+    "add-pet-care-type.drawio.png",
     "navigate-to-pet-details.drawio.png",
     "add-pet.drawio.png",
     "update-profile.drawio.png",
     "login-error.drawio.png",
-    "registration-error.drawio.png",
-    "login.drawio 2.png",
-    "registration.drawio.png",
     "01. Student Guide/4. Application Design/AD-01 Story Boards.md",
     "01. Student Guide/4. Application Design/About Application Design.md",
-    "02. My Portfolio/4. Application Design/AD-01 Story Boards.md",
     "02. My Portfolio/4. Application Design/AD-02 Data Flow Diagrams.md",
     "02. My Portfolio/3. Project Proposal/PP-04 Deliverables.md",
     "02. My Portfolio/3. Project Proposal/PP-02 Problem Description.md",
@@ -254,10 +257,6 @@
     "01. Student Guide/6. Application Testing/About Application Testing.md",
     "01. Student Guide/6. Application Testing/AT-TC-001 - Valid Login.md",
     "02. My Portfolio/4. Application Design/AD-04 Input Process Output Charts.md.tmp.40049.f08b2e31460d",
-    "login.drawio 1.png",
-    "login.drawio.png",
-    "signup_pet_sitter.drawio.png",
-    "signup_pet_owner.drawio.png",
     "YourCatsAndDogs.pdf",
     "02. My Portfolio/7. Application Handover",
     "02. My Portfolio/2. Project Vision/Untitled",
